@@ -17,6 +17,8 @@ Peacetime Code
 * [ModifyImageNameByTakingPhotosTime.py](https://github.com/github-luffy/luffy_coding/blob/master/Python/ModifyImageNameByTakingPhotosTime.py "View Code")
 * [WebCrawlers_BaiduTieba.py](https://github.com/github-luffy/luffy_coding/blob/master/Python/WebCrawlers_BaiduTieba.py "View Code")
 * [WebCrawlers_taobaoMM.py](https://github.com/github-luffy/luffy_coding/blob/master/Python/WebCrawlers_taobaoMM.py "View Code")
+* [WebCrawlers_IaskToDataBase.py](https://github.com/github-luffy/luffy_coding/blob/master/Python/WebCrawlers_IaskToDataBase.py "View Code")
+* [WebCrawlers_AutoConnectWifi.py](https://github.com/github-luffy/luffy_coding/blob/master/Python/WebCrawlers_AutoConnectWifi.py "View Code")
 * [WebCrawlers_StudentGradeSystem.py](https://github.com/github-luffy/luffy_coding/blob/master/Python/WebCrawlers_StudentGradeSystem.py "View Code")
 * [WebCrawlers_EmbarrassmentsWikipedia.py](https://github.com/github-luffy/luffy_coding/blob/master/Python/WebCrawlers_EmbarrassmentsWikipedia.py "View Code")
 
